@@ -12,10 +12,15 @@ Edit config.py to include the ip (If lan then local ip if public ip include that
 
 # Starting
 Start the server with:
+
 python3 server.py
+
 or 
+
 py server.py
+
 or 
+
 python server.py
 
 Depending on what python is aliased as
