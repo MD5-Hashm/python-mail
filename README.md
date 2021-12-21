@@ -1,16 +1,16 @@
 # python-mail
 A python mailserver meant for friends who value privacy and a hard to use interface....
 
-#Server setup
+# Server setup
 Start by finding your local ip and edit "config.py" to include your local ip and desired port.
 Edit "path.py" and include the full path of the mailbox, keys and, server
 Edit "db.py" and add the base account you want to include (You can add more later without access to the server)
 Insure you have at least one account with admin/root permissions by editing the "ADMINS" list
 
-#Client setup
+# Client setup
 Edit config.py to include the ip (If lan then local ip if public ip include that) and the port
 
-#Starting
+# Starting
 Start the server with:
 python3 server.py
 or 
