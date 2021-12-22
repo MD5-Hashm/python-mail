@@ -7,14 +7,20 @@ It isnt great but in my opinon it's still pretty cool.
 
 # Commands
 "ping" : Sends a responds
+
 "help" : Shows a list of commands
+
 "send" : Sends mail
+
 "read" : Reads your mail
+
 "purgemail" : Purges your mail
+
 "exit" : "Disconnects you from the server"
 
 # Admin commands
 "addusr" : Generates a key that someone can use as a username to create a new account (1 time use)
+
 "purgekeys" : Deletes all the stored key
 
 
