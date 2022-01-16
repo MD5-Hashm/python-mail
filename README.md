@@ -1,5 +1,5 @@
 # python-mail
-A python mailserver meant for friends who value privacy and a hard to use interface....
+A python mailserver meant for friends who value hard to use interfaces....
 
 # Basic info
 This mailserver was just a random project of mine that I thought I would share.
